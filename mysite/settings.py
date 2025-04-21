@@ -6,7 +6,7 @@ SECRET_KEY = 'django-insecure-rzm9r-d5&u!u1gbg=1*!#n^-i+#*ym_+&d-x=mevqf!01vdf(e
 
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['18.212.54.179']
 
 INSTALLED_APPS = [
     'polls.apps.PollsConfig',
